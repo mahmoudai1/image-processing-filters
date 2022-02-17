@@ -64,11 +64,17 @@
 
 
 # II. Tools and Frameworks:
+
 • Jupyter-Lab
+
 • Python3.8
+
 • ipywidgets
+
 • NumPy
+
 • OpenCV
+
 • Matplotlib
 
 # Contact:
