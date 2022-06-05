@@ -55,13 +55,13 @@
 • Return this matrix (matriximage) to produce the image after the bicubic interpolation filter.<br/><br/>
 
 
-**9. Interpolation (Bicubic):**<br/>
+**9. Sobel Operator:**<br/>
 • Sobel filter consists of vertical and horizontal operators as known as Gx and Gy.
 
 • We apply these filters to the gray scaled image by multiplying Gx with the gray scaled image and get sum1 and sum2 by multiplying Gy with the gray scaled image and then we take the sum of both and use this equation *sqrt(pow([𝐺𝑥(𝐴)], 2) + pow([𝐺𝑦(𝐴)], 2))*. This is implemented in the algorithm by looping through the gray scaled image and get sum1 and sum2, and then update the image pixels with the equation *sqrt(pow([𝐺𝑥(𝐴)], 2) + pow([𝐺𝑦(𝐴)], 2))*.<br/><br/>
 
 
-**10. Interpolation (Bicubic):**<br/>
+**10. Histogram Equalization:**<br/>
 • First, it calculates normalized histogram for the image, then, the cumulative distribution function is calculated by taking the sum of the normalized values of the image, and the transfer functions is then calculated by multiplying the values of the normalized by the cumulative distribution, then the last thing is to apply the transfered values for each pixel of the image.<br/><br/>
 
 
