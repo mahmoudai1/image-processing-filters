@@ -1,12 +1,14 @@
 # Digital Image Processing Filters
-
 • Digital Image Processing filters developed by python using ipywidgets.
 
-<img width="500" alt="The interface" src="https://user-images.githubusercontent.com/66283081/154514169-77594127-90f8-4bd8-b3c7-9817ba655575.png">
+## Demo
+
+
+https://user-images.githubusercontent.com/66283081/176911457-8e8bcdf1-986b-4d10-a882-6be667894633.mp4
 
 
 
-# I. Filters Used:
+## Filters Used:
 **1. Impulse Noise (Salt and Pepper):**<br/>
 • A random number is used to plot the black/white pixel on the image, with respect 4/8-neighbor, to fill the image with noise.<br/><br/>
 
@@ -66,7 +68,7 @@
 
 
 
-# II. Tools and Frameworks:
+## Tools and Frameworks:
 
 • Jupyter-Lab
 
@@ -80,8 +82,8 @@
 
 • Matplotlib
 
-# Contact:
-• mahmoud.ahmed48@msa.edu.eg
+## Contact:
+**• mahmoud.ahmed9@outlook.com**
 
 • ali.mohamed30@msa.edu.eg
 
